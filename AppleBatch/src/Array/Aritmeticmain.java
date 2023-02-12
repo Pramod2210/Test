@@ -1,5 +1,7 @@
 package Array;
 
+
+import java.sql.Date;
 import java.util.Scanner;
 
 public class Aritmeticmain {
@@ -20,6 +22,7 @@ public class Aritmeticmain {
          a1.pp(a);
          a1.display();
 	    
+		
 
 }
 }

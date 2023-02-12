@@ -14,6 +14,9 @@ public class Movie {
     	this.t=t;
     }
 
+    
+
+
 	@Override
 	public String toString() {
 		return "Movie id=" + id + " Releasyear=" + Releasyear + " name=" + name+Arrays.toString(t) ;
