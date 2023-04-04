@@ -14,6 +14,8 @@ public class ReplaceNegative {
     	if(a[j]<0) {
     		a[j]=0;
     	}
+    	String s=" ";
+
     
     System.out.print( a[j]+",");
     }
