@@ -10,12 +10,10 @@ class  Main
       int a1=0,b=1;
     	Scanner sc=new Scanner(System.in);
         int num=sc.nextInt();
-        
-        // ***************** END: UNTIL THIS LINE
-     
-       // START: WRITE YOUR LOGIC BELOW THIS STATEMENT
+
           for(int i=1;i<=num;i++)
           {
+        	  System.out.println("hello");
         System.out.print(a1+" ");
         int c=a1+b;
         a1=b;
